@@ -1,0 +1,19 @@
+[client]
+toolbarMode = "viewer"
+
+[theme]
+baseRadius = "none"
+borderColor = "#D9D2C3"
+
+[theme.light]
+primaryColor = "#1A1A1A"
+backgroundColor = "#FAF8F3"
+secondaryBackgroundColor = "#F1ECE2"
+textColor = "#1A1A1A"
+
+[theme.dark]
+primaryColor = "#C9A96E"
+backgroundColor = "#0F0E0C"
+secondaryBackgroundColor = "#1C1A17"
+textColor = "#EDE6D8"
+borderColor = "#3A352D"
